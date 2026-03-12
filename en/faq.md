@@ -60,7 +60,7 @@ We **do not use** the camera or microphone in order to keep the app simple and c
 Advertising helps us keep the app completely **free** to use.
 
 *How can I contact the developer?*  
-You can email us at: **...@gmail.com**
+You can email us at: **support.dailyfocus@gmail.com**
 
 ---
 
