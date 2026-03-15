@@ -1,4 +1,4 @@
-## ↻ Daily Focus: One Minute Together
+## ↻ Daily Focus: 1 Minute Together
 
 Welcome to the **Daily Focus** support center!  
 Here you can find answers to the most common questions about the app.
