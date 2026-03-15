@@ -1,5 +1,5 @@
 ## Privacy Policy  
-App Name: *Daily Focus: One Minute Together*   
+App Name: *Daily Focus: 1 Minute Together*   
 Package Name: *com.clawlabsapp.dailyfocus*  
 Developer: *ClawLabs App*  
 Last Updated: *March 2026*
@@ -8,7 +8,7 @@ Last Updated: *March 2026*
 
 ### 1. Introduction
 
-This Privacy Policy describes how *Daily Focus: One Minute Together* ("we", "our", or "the App") collects, uses, and protects information when you use our application. Daily Focus is a meditation and mindfulness tool that generates procedural art based on your device interaction during focus sessions.
+This Privacy Policy describes how *Daily Focus: 1 Minute Together* ("we", "our", or "the App") collects, uses, and protects information when you use our application. Daily Focus is a meditation and mindfulness tool that generates procedural art based on your device interaction during focus sessions.
 
 *ClawLabs App* acts as the data controller for the data processed through the App. We are committed to handling your information transparently and with minimal data collection. Please read this policy to understand our practices.
 
