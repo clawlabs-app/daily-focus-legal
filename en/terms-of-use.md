@@ -1,5 +1,5 @@
 ## Terms of Use
-App Name: *Daily Focus: One Minute Together*   
+App Name: *Daily Focus: 1 Minute Together*   
 Package Name: *com.clawlabsapp.dailyfocus*  
 Developer: *ClawLabs App*  
 Last Updated: *March 2026*
@@ -8,7 +8,7 @@ Last Updated: *March 2026*
 
 ### 1. Acceptance of Terms
 
-By downloading, installing, or using *Daily Focus: One Minute Together* (the “App”), you agree to be bound by these Terms of Use (“Terms”). If you do not agree to these Terms, do not use the App.  
+By downloading, installing, or using *Daily Focus: 1 Minute Together* (the “App”), you agree to be bound by these Terms of Use (“Terms”). If you do not agree to these Terms, do not use the App.  
 
 These Terms constitute a legally binding agreement between you and ClawLabs App, the developer of the App (“we”, “our”, or “us”).
 
