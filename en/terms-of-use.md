@@ -119,6 +119,6 @@ These Terms are governed by and construed in accordance with applicable laws. If
 
 ### 15. Contact
 
-If you have any questions about these Terms, please contact:us via email: support.dailyfocus@gmail.com
+If you have any questions about these Terms, please contact us via email: support.dailyfocus@gmail.com
 
 ---
